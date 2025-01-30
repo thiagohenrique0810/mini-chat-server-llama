@@ -93,6 +93,6 @@ Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 
 ## 📬 Contato
 
-Seu Nome - [@seu-twitter](https://twitter.com/seu-twitter) - email@exemplo.com
+Thiago Henrique - [@seu-twitter](https://twitter.com/seu-twitter) - thiagohenrique0810@hotmail.com
 
 Link do projeto: [https://github.com/seu-usuario/llama-api-docker](https://github.com/seu-usuario/llama-api-docker)
